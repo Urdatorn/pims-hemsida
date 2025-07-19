@@ -1,5 +1,96 @@
 # Svenska för laotier :)
 
+## Konversation
+
+**Svenska:** Tja! Hur är läget?  
+**ไทย:** หวัดดี! เป็นยังไงบ้าง?  
+<audio controls src="audio/tja_hur_är_läget.m4a"></audio>
+
+**Svenska:** Hej! Det är bra, tack. Hur är det med dig?  
+**ไทย:** สวัสดี! สบายดี ขอบคุณ แล้วคุณล่ะ?  
+<audio controls src="audio/hej_det_är_bra_tack_hur_är_det_med_dig.m4a"></audio>
+
+**Svenska:** Vi ses! Ha det bra!  
+**ไทย:** แล้วเจอกัน! ขอให้โชคดี!  
+<audio controls src="audio/vi_ses_ha_det_bra.m4a"></audio>
+
+**Svenska:** Du med! Vi hörs imorgon!  
+**ไทย:** คุณด้วย! คุยกันพรุ่งนี้นะ!  
+<audio controls src="audio/du_med_vi_hörs_imorgon.m4a"></audio>
+
+**Svenska:** Trevligt att träffas!  
+**ไทย:** ยินดีที่ได้พบกัน!  
+<audio controls src="audio/trevligt_att_träffas.m4a"></audio>
+
+**Svenska:** Var kommer du ifrån? Jag kommer från Salavanh, men jag bor i Bangkok.  
+**ไทย:** คุณมาจากไหน? ฉันมาจากสาละวัน แต่ฉันอยู่ที่กรุงเทพฯ  
+<audio controls src="audio/var_kommer_du_ifrån_jag_kommer_från_salavanh_men_jag_bor_i_bangkok.m4a"></audio>
+
+**Svenska:** Var är du född? Jag är född på Södermalm.  
+**ไทย:** คุณเกิดที่ไหน? ฉันเกิดที่เกาะใต้  
+<audio controls src="audio/var_är_du_född_jag_är_född_på_södermalm.m4a"></audio>
+
+**Svenska:** Mamma är född i Vimmerby. Pim är född i Salavanh. David är född i USA.  
+**ไทย:** แม่เกิดที่วิมเมอร์บู พิมเกิดที่สาละวัน เดวิดเกิดที่อเมริกา  
+<audio controls src="audio/mamma_är_född_i_vimmerby_pim_är_född_i_salavanh_david_är_född_i_usa.m4a"></audio>
+
+**Svenska:** Min svenska är inte så bra.  
+**ไทย:** สวีเดนของฉันไม่ค่อยดี  
+<audio controls src="audio/min_svenska_är_inte_så_bra.m4a"></audio>
+
+**Svenska:** Jag håller på att lära mig svenska.  
+**ไทย:** ฉันกำลังเรียนภาษาสวีเดนอยู่  
+<audio controls src="audio/jag_håller_på_att_lära_mig_svenska.m4a"></audio>
+
+**Svenska:** Ursäkta, vad sa du?  
+**ไทย:** ขอโทษ คุณพูดว่าอะไรนะ?  
+<audio controls src="audio/ursäkta_vad_sa_du.m4a"></audio>
+
+**Svenska:** Hur säger man "เกิด" på svenska? Man säger "född".  
+**ไทย:** คำว่า "เกิด" พูดเป็นภาษาสวีเดนว่าอย่างไร? พูดว่า "född"  
+<audio controls src="audio/hur_säger_man_เกิด_på_svenska_man_säger_född.m4a"></audio>
+
+**Svenska:** Jag frågar och du svarar, okej?  
+**ไทย:** ฉันถามและคุณตอบ ตกลงไหม?  
+<audio controls src="audio/jag_frågar_och_du_svarar_okej.m4a"></audio>
+
+**Svenska:** Säg efter mig!  
+**ไทย:** พูดตามฉัน!  
+<audio controls src="audio/säg_efter_mig.m4a"></audio>
+
+**Svenska:** Jag måste gå och lägga mig.  
+**ไทย:** ฉันต้องไปนอนแล้ว  
+<audio controls src="audio/jag_måste_gå_och_lägga_mig.m4a"></audio>
+
+**Svenska:** När ska du gå och lägga dig?  
+**ไทย:** คุณจะไปนอนเมื่อไหร่?  
+<audio controls src="audio/när_ska_du_gå_och_lägga_dig.m4a"></audio>
+
+**Svenska:** Vad är klockan?  
+**ไทย:** กี่โมงแล้ว?  
+<audio controls src="audio/vad_är_klockan.m4a"></audio>
+
+**Svenska:** Klockan är sex på kvällen.  
+**ไทย:** ตอนนี้หกโมงเย็นแล้ว  
+<audio controls src="audio/klockan_är_sex_på_kvällen.m4a"></audio>
+
+**Svenska:** I Thailand är klockan fem timmar mer än i Sverige.  
+**ไทย:** ในประเทศไทย เวลาเร็วกว่าสวีเดนห้าชั่วโมง  
+<audio controls src="audio/i_thailand_är_klockan_fem_timmar_mer_än_i_sverige.m4a"></audio>
+
+**Svenska:** I Sverige är klockan fem timmar mindre än i Thailand.  
+**ไทย:** ในสวีเดน เวลาเร็วกว่าประเทศไทยห้าชั่วโมงน้อยกว่า  
+<audio controls src="audio/i_sverige_är_klockan_fem_timmar_mindre_än_i_thailand.m4a"></audio>
+
+**Svenska:** Ursäkta, skulle du kunna hjälpa mig?  
+**ไทย:** ขอโทษนะ คุณช่วยฉันได้ไหม?  
+<audio controls src="audio/ursäkta_skulle_du_kunna_hjälpa_mig.m4a"></audio>
+
+## Handla
+
+
+
+## Första meningarna
 
 1. **Svenska:** Jag ska åka tåg till landet.  
 **ລາວ:** ຂ້ອຍຈະນັ່ງລົດໄຟໄປຊົນນະບົດ  
